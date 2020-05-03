@@ -1,4 +1,4 @@
-@import "~materialize-css/dist/css/materialize.min.css";
+@import '~materialize-css/dist/css/materialize.min.css';
 
 body {
   margin: 0;
@@ -26,4 +26,3 @@ body {
 .todo i {
   z-index: 2;
 }
-
